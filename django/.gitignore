@@ -1,2 +1,3 @@
 .vscode
-admin/.dbdata
+/.dbdata
+/products/migrations

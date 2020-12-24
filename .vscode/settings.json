@@ -12,6 +12,19 @@
       "username": "root",
       "password": "root",
       "name": "python microservices"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33067,
+      "driver": "MySQL",
+      "database": "main",
+      "username": "root",
+      "password": "root",
+      "name": "flask"
     }
   ],
   "python.pythonPath": "/usr/local/bin/python3"
