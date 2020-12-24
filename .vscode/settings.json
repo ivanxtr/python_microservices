@@ -13,5 +13,6 @@
       "password": "root",
       "name": "python microservices"
     }
-  ]
+  ],
+  "python.pythonPath": "/usr/local/bin/python3"
 }
